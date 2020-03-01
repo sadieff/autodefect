@@ -1,0 +1,28 @@
+.admin-input {
+    max-width: 600px;
+    margin: 0 auto 30px;
+}
+.admin-input label{
+    display: block;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.admin-input select{
+    font-size: 18px;
+    display: block;
+    height: 40px;
+    width: 100%;
+}
+.admin-input input[type=text]{
+    border: 1px solid #999;
+    outline: none;
+    font-size: 18px;
+    display: block;
+    height: 40px;
+    padding: 0 20px;
+    width: 100%;
+}
+.admin-input button {
+    cursor: pointer;
+    padding: 7px 20px;
+}
